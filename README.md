@@ -22,10 +22,7 @@ Os esquema de literatura é organizado através de [issues](https://github.com/c
 
 #### Carreira
 
-...
-
-<div class="markdown-body h2" style="width:100%;height:1px;background-color:#000000;border-bottom:solid #000000 1px">asasas</div>
-
+---
 ### Tecnologia
 
 #### Carreira
