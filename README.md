@@ -6,6 +6,8 @@ Repositório pessoal de literatura, criado para gerenciar coleção de livros be
 
 Os esquema de literatura é organizado através de [issues](https://github.com/chen-zhenn/my-shelfie/issues) e gerenciado via Kanban pelo projeto [Literatura](https://github.com/users/chen-zhenn/projects/5).
 
+* __Livros__: [lista](https://github.com/chen-zhenn/my-shelfie/issues)
+* __Progresso__: [kanban](https://github.com/users/chen-zhenn/projects/5)
 ## Categorias
 
 #### Desenvolvimento pessoal
