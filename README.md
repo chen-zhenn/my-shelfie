@@ -1,6 +1,6 @@
 # My shelfie
 
-"My Shelfie", um repositório pessoal de literatura criado para gerenciar coleção de livros bem como rastrear progressos, revisões, práticas, exercícios e etc...
+Repositório pessoal de literatura criado para gerenciar coleção de livros bem como rastrear progressos, revisões, práticas, exercícios e etc...
 
 ## Organização
 
