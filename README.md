@@ -4,5 +4,5 @@
 
 ## Organização
 
-Os esquema de literatura é organizado através de issues e gerenciado via Kanban pelo projeto [Literatura](https://github.com/users/chen-zhenn/projects/5).
+Os esquema de literatura é organizado através de [issues](https://github.com/chen-zhenn/my-shelfie/issues) e gerenciado via Kanban pelo projeto [Literatura](https://github.com/users/chen-zhenn/projects/5).
   
