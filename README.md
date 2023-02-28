@@ -24,7 +24,7 @@ Os esquema de literatura é organizado através de [issues](https://github.com/c
 
 ...
 
-<div style="width:100%;height:1px;background-color:gray;"></div>
+<div style="width:100%;height:1px;background-color:gray;">&nbsp;</div>
 
 ### Tecnologia
 
