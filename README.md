@@ -10,21 +10,23 @@ Os esquema de literatura é organizado através de [issues](https://github.com/c
 * __Progresso__: [kanban](https://github.com/users/chen-zhenn/projects/5)
 ## Categorias
 
-#### Desenvolvimento pessoal
+### Desenvolvimento pessoal
 
-##### Qualidade de vida
+#### Qualidade de vida
 
 2. [Acordar cedo: Desafiando seus limites](https://github.com/chen-zhenn/my-shelfie/issues/2)
 
-##### Produtividade & Performance
+#### Produtividade & Performance
 
 1. [Leitura dinâmica: Ultrapassando seu limites](https://github.com/chen-zhenn/my-shelfie/issues/1)
 
-##### Carreira
+#### Carreira
 
-#### Tecnologia
+---
 
-##### Programação
+### Tecnologia
+
+#### Programação
 
 3. [14 Hábitos de Desenvolvedores altamente produtivos](https://github.com/chen-zhenn/my-shelfie/issues/3)
 
