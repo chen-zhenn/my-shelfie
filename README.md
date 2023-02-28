@@ -32,7 +32,7 @@ Os esquema de literatura é organizado através de [issues](https://github.com/c
 
 3. [14 Hábitos de Desenvolvedores altamente produtivos](https://github.com/chen-zhenn/my-shelfie/issues/3)
 
-    * __Marcadores__: [link](marks/book%233/README.md) 
+    * __Marcadores__: [link](marks/book%233) 
 
 #### Programação
 
